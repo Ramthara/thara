@@ -1,0 +1,21 @@
+.main h1{
+  font-family: 'Bungee Shade', cursive;
+  width:600px;
+  font-size: 70px;
+  position: relative;
+  bottom:400px;
+  color:#b30000;
+  margin-left:350px;
+  padding-right: 10px;
+  text-align: center;
+  }
+  .main h2{
+    padding-right: 10px;
+    position: relative;
+    bottom:90px;
+    color:#e6ac00;
+     font-size: 60px;
+    font-family: 'Bungee Shade', cursive;
+    width:600px;
+    margin-left: 480px;
+}

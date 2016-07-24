@@ -1,0 +1,44 @@
+.container_12 {
+  background-image: url("pic.jpg");
+height:600px;
+}
+.container_12 h1{
+  text-align: center;
+  color: white;
+  font-family: 'Ewert', cursive;
+  font-size: 40px;
+  padding-right: 20px;
+}
+
+.container_12 h2{
+  text-align: center;
+font-family: 'Dancing Script', cursive;
+color: orange;
+  font-size: 40px;
+}
+/*pic*/
+.grid_2 {margin:20px;
+}
+.tooltip{
+   background-color: rgb(230,230,230);;
+ width:100px;
+ height:100px;
+}
+.tooltip img{
+ visibility:hidden;;
+ width:100px;
+ height:100px;
+}
+.grid_2:hover .tooltip img{
+  visibility: visible;
+}
+.container_12 p{
+  position: relative;
+  top:30px;
+  color: yellow;
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  padding-right: 20px;
+  text-align: center;
+  fon
+}

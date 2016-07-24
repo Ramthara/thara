@@ -1,0 +1,114 @@
+.container_12{
+  background-image: url("event.jpg");
+height:500px;
+}
+.grid_8 img{
+  height: 450px;
+  width:500px;
+}
+.container_12 h1{
+  color:white;
+  text-align: center;
+font-size: 50px;
+}
+.grid_6 img{
+  height: 450px;
+  width: 500px;
+}
+
+.p1{
+  position: relative;
+  top: 80px;
+  right: 50px;
+  font-size: 50px;
+  color: yellow;
+font-family: 'Cormorant SC', serif;
+}
+.p2{
+  font-size: 30px;
+  position: relative;
+  top: 150px;
+  text-align: justify;
+  color:#ff3399;
+}
+.p3{
+  position: relative;
+  top: 200px;
+  font-size: 30px;
+  font-family: 'Lobster Two', cursive;
+  text-align: justify;
+  color:grey;
+}
+.p4{
+  position: relative;
+  top: 200px;
+  font-size: 30px;
+  text-align: justify;
+  font-family: 'Lobster Two', cursive;
+  color:grey;
+
+}
+/*REC*/
+.p5{
+  position: relative;
+  top: 50px;
+  font-size: 45px;
+  color: yellow;
+font-family: 'Cormorant SC', serif;
+}
+.p5a{
+  position: relative;
+  top: 60px;
+  font-size: 40px;
+  color:pink;
+font-family: 'Creepster', cursive;
+padding-right: 30PX;
+}
+.p6{
+  font-size: 30px;
+  position: relative;
+  bottom: -80px;
+  left: 20px;
+  text-align: justify;
+  color:#ff3399;
+}
+.p7{
+  position: relative;
+  top: 150px;
+  font-size: 30px;
+  font-family: 'Lobster Two', cursive;
+  text-align: justify;
+  color:grey;
+}
+.p8{
+  position: relative;
+  top: 150px;
+  font-size: 25px;
+  text-align: justify;
+  font-family: 'Lobster Two', cursive;
+  color:grey;
+}
+  /*map*/
+
+  .p9{
+    position: relative;
+    top: 50px;
+    left: 150px;
+    font-size: 45px;
+    color: yellow;
+  font-family: 'Cormorant SC', serif;
+  }
+
+  .p10{
+    position: relative;
+    top: 400px;
+    right: 300px;
+    font-size: 25px;
+    text-align: justify;
+    font-family: 'Lobster Two', cursive;
+    color:orange;
+  }
+
+
+
+  }

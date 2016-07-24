@@ -1,0 +1,183 @@
+.container_12{
+  background-image: url("bg.jpg");
+height:300px;
+}
+.container_12 h1{
+  color: #d9ffb3;
+  text-align: center;;
+  position: relative;
+  top:100px;
+  left:10px;
+  padding-right: 10px;
+  font-size: 70px;
+  font-family: 'Bungee Shade', cursive;
+
+}
+.grid_6
+{
+  height: 200px;
+  width:200px;
+  margin-top: 20px;
+}
+p{
+  position: relative;
+  left: -190px;
+}
+/*phone*/
+
+
+.p0 p{
+    font-family: fantasy;
+    font-size: 20px;
+    color:#00e6ac;
+}
+.ph1 p{
+  font-family: 'Mirza', cursive;
+  font-size: 20px;
+  color:white;
+}
+
+.ph2 p{
+  color:#e6e6ff;
+  font-size: 20px;
+  padding-right: 30px;
+  font-family: 'Yellowtail', cursive;
+}
+.ph3 p{
+  font-size:20px;
+  color:yellow;
+  position: relative;
+  left: 30px;
+  font-family: 'Bungee Inline', cursive;
+}
+
+.ph4 p{
+  font-family: 'Mirza', cursive;
+  font-size: 20px;
+  color:white;
+}
+.ph5 p{
+  color:#e6e6ff;
+  font-size: 20px;
+  padding-right: 30px;
+  font-family: 'Yellowtail', cursive;
+}
+
+/*meet*/
+.ph6 p{
+  font-family: 'Bungee Inline', cursive;
+    font-size: 20px;
+    color:yellow;
+    position: relative;
+    left:30px;
+}
+.ph7 p{
+  font-family: 'Mirza', cursive;
+  font-size: 20px;
+  color:white;
+}
+.ph8 p{
+  color:#e6e6ff;
+  font-size: 20px;
+  padding-right: 30px;
+  font-family: 'Yellowtail', cursive;
+}
+
+
+.ph9 p{
+    font-family: fantasy;
+    font-size: 20px;
+    color:#00e6ac;
+}
+
+/*engage*/
+.ph10 p{
+  font-size:20px;
+  color:yellow;
+  position: relative;
+  left: 30px;
+  font-family: 'Bungee Inline', cursive;
+}
+.ph11 p{
+    font-family: fantasy;
+    font-size: 20px;
+    color:#00e6ac;
+}
+.ph12 p{
+  font-family: 'Mirza', cursive;
+  font-size: 20px;
+  color:white;
+}
+.ph13 p{
+  color:#e6e6ff;
+  font-size: 20px;
+  padding-right: 30px;
+  font-family: 'Yellowtail', cursive;
+}
+/*outing*/
+.ph14 p{
+  font-size:20px;
+  color:yellow;
+  position: relative;
+  left: 30px;
+  font-family: 'Bungee Inline', cursive;
+}
+.ph15 p{
+    font-family: fantasy;
+    font-size: 20px;
+    color:#00e6ac;
+      padding-right: 40px;
+}
+.ph16 p{
+  font-family: 'Mirza', cursive;
+  font-size: 20px;
+  color:white;
+}
+.ph17 p{
+  color:#e6e6ff;
+  font-size: 20px;
+  padding-right: 40px;
+  font-family: 'Yellowtail', cursive;
+}
+/*FIRST*/
+.s1{
+
+    font-size:30px;
+    padding-right: 10px;
+    color:#00e6e6;
+    position: relative;
+    left: 220px;
+    top:-20px;
+font-family: 'Passion One', cursive;
+  }
+  .s2{
+
+      font-size:30px;
+      padding-right: 10px;
+      color:#00e6e6;
+      position: relative;
+      left: 220px;
+      top:-20px;
+  font-family: 'Passion One', cursive;
+    }
+    .s3{
+
+        font-size:30px;
+        padding-right: 10px;
+        color:#00e6e6;
+        position: relative;
+        left: 220px;
+        top:-20px;
+    font-family: 'Passion One', cursive;
+      }
+
+      .s4{
+
+          font-size:30px;
+          padding-right: 10px;
+          color:#00e6e6;
+          position: relative;
+          left: 220px;
+          top:-20px;
+      font-family: 'Passion One', cursive;
+        }

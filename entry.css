@@ -1,0 +1,35 @@
+.container_12{
+  background-image: url("yellow.jpg");
+  height:600px;
+}
+
+form li{
+  list-style: none;
+  font-size: 20px;
+
+}
+form ul{  position: relative;
+  top:60px;
+  left:500px;
+  padding-left: 0;
+
+}
+label{
+  display: block;
+
+}
+form p{
+  position: relative;
+   top:50px;
+  right:150px;
+  color: red;
+  font-size: 30px;
+}
+#name {
+  font-size: 20px;}
+  #comments{
+    font-size: 20px;}
+    #name {
+      font-size: 20px;}
+      #name {
+        font-size: 20px;}
